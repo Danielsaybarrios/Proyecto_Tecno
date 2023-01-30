@@ -1,0 +1,4 @@
+F:\Daniel 5to compu\1U-TecVII-GA1-DanielSay\1U-TecVII-GA1-DanielSay\bin\Debug\1U-TecVII-GA1-DanielSay.exe.config
+F:\Daniel 5to compu\1U-TecVII-GA1-DanielSay\1U-TecVII-GA1-DanielSay\obj\Debug\1U-TecVII-GA1-DanielSay.exe
+F:\Daniel 5to compu\1U-TecVII-GA1-DanielSay\1U-TecVII-GA1-DanielSay\obj\Debug\1U-TecVII-GA1-DanielSay.xml
+F:\Daniel 5to compu\1U-TecVII-GA1-DanielSay\1U-TecVII-GA1-DanielSay\obj\Debug\1U-TecVII-GA1-DanielSay.pdb
